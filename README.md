@@ -2,4 +2,4 @@
 
 Learning how to make GH user pages. Playing around with Jekyll as well.
 
-URL: http://aizicmoisen.github.io/
+URL: http://evelinfoxell.github.io/
